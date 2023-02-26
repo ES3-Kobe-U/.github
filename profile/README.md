@@ -1,8 +1,6 @@
 # 神戸大学大学院 工学研究科・工学部 情報通信研究室（ES3） 開発チーム
 ## メンバー
 ### M2
-平藪 将志	
-> GitHub Account :octocat: : [@hirahirahirahirahi-rahira](https://github.com/hirahirahirahirahi-rahira)
 
 ### M1
 林 滉斗	
