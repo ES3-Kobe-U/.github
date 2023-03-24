@@ -1,12 +1,10 @@
 # 神戸大学大学院 工学研究科・工学部 情報通信研究室（ES3） 開発チーム
 ## メンバー
 ### M2
-
-### M1
 林 滉斗	
 > GitHub Account :octocat: : [@hayashihiroto](https://github.com/hayashihiroto)
 
-### B4
+### M1
 
 井上雄登
 > GitHub Account :octocat: : [@tkt-ino](https://github.com/tkt-ino)
@@ -17,7 +15,7 @@
 木村圭一朗
 > GitHub Account :octocat: : [@trapedev](https://github.com/trapedev)
 
-### B3
+### B4
 東瀬戸翔大
 > GitHub Account :octocat: : [@S-higss](https://github.com/S-higss)
 
