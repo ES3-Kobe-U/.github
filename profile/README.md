@@ -19,3 +19,5 @@
 東瀬戸翔大 :octocat: : [@S-higss](https://github.com/S-higss)
 
 樋口郁真 :octocat: : [@ikuma0219](https://github.com/ikuma0219)
+
+栗山幸祐 :octocat: : [@kskk-es3](https://github.com/kskk-es3)
