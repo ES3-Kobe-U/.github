@@ -1,7 +1,7 @@
-# 神戸大学大学院 工学研究科・工学部 情報通信研究室（ES3） 開発チーム
-## メンバー
+# Dev. Team of ES3 Lab. , Graduate School of Engineering, Kobe University
+## Members
 
-### 学生研究員
+### Researcher
 
 野村知也 :octocat: : [@nomura-tomoya](https://github.com/nomura-tomoya)
 
