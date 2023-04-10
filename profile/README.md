@@ -13,6 +13,8 @@
 
 井上雄登 :octocat: : [@tkt-ino](https://github.com/tkt-ino)
 
+三井陸豊 :octocat: : [@Mitsui311](https://github.com/Mitsui311)
+
 木村圭一朗 :octocat: : [@trapedev](https://github.com/trapedev)
 
 ### B4
