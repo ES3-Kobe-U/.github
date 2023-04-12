@@ -15,6 +15,12 @@
 
 三井陸豊 :octocat: : [@Mitsui311](https://github.com/Mitsui311)
 
+谷崎 公亮 :octocat: : [@TanizakiKosuke](https://github.com/TanizakiKosuke)
+
+藤井 翔太 :octocat: : [@Fuji49](https://github.com/Fuji49)
+
+中谷 駿介 :octocat: : [@Shunsuke-Nakatani](https://github.com/Shunsuke-Nakatani)
+
 木村圭一朗 :octocat: : [@trapedev](https://github.com/trapedev)
 
 ### B4
