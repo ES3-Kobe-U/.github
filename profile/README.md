@@ -29,3 +29,5 @@
 樋口郁真 :octocat: : [@ikuma0219](https://github.com/ikuma0219)
 
 栗山幸祐 :octocat: : [@kskk-es3](https://github.com/kskk-es3)
+
+江連照人 :octocat: [@Eruze-vision](https://github.com/Eruze-vision)
