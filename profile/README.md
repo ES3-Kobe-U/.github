@@ -9,6 +9,8 @@
 
 林 滉斗	:octocat: : [@hayashihiroto](https://github.com/hayashihiroto)
 
+西井 大智　:octocat: : [@bwtk664](https://github.com/bwtk664)
+
 ### M1
 
 井上 雄登 :octocat: : [@tkt-ino](https://github.com/tkt-ino)
